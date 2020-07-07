@@ -1,0 +1,22 @@
+body{background-color: #f2f2f2; font-family: arial; color: #333333}
+h1{text-align: center;}
+#container{width: 850px; margin: 0 auto}
+#login,#signup,#device{width: 300px; border: 1px solid #d6d7da; padding: 0px 15px 15px 15px; border-radius: 5px;font-family: arial; line-height: 16px;color: #333333; font-size: 14px; background: #ffffff;rgba(200,200,200,0.7) 0 4px 10px -1px}
+#login{float:left;}
+#signup{float:right;}
+#device{margin: 0 auto;}
+#img{text-align: center;}
+h3{color:#365D98}
+form label{font-weight: bold;}
+form label, form input{display: block;margin-bottom: 5px;width: 90%}
+form input{ border: solid 1px #666666;padding: 10px;border: solid 1px #BDC7D8; margin-bottom: 20px}
+.button {
+    background-color: #5fcf80 !important;
+    border-color: #3ac162 !important;
+    font-weight: bold;
+    padding: 12px 15px;
+    max-width: 100px;
+    color: #ffffff;
+}
+.errorMsg{color: #cc0000;margin-bottom: 10px}
+.app{width: 150px}
